@@ -1,0 +1,19 @@
+{
+  "name": "xuxulll's personal packages",
+  "overview": "This is a personal package collection listing made-up packages.",
+  "keywords": ["personal package"],
+  "packages": [
+    {
+      "url": "https://github.com/malcommac/SwiftDate.git",
+    },
+    {
+      "url": "https://github.com/zenangst/Hue.git"
+    },
+    {
+      "url": "https://github.com/onevcat/Kingfisher.git"
+    }
+  ],
+  "author": {
+    "name": "xuxulll"
+  }
+}
