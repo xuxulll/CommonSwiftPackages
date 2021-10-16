@@ -11,6 +11,12 @@
     },
     {
       "url": "https://github.com/onevcat/Kingfisher.git"
+    },
+    {
+      "url": "https://github.com/AppPear/ChartView.git"
+    },
+    {
+      "url": "https://github.com/danielgindi/Charts.git"
     }
   ],
   "author": {

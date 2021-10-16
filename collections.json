@@ -1,1 +1,1163 @@
-{"formatVersion":"1.0","generatedAt":"2021-06-13T15:55:28Z","generatedBy":{"name":"xuxulll"},"keywords":["personal package"],"name":"xuxulll's personal packages","overview":"This is a personal package collection listing made-up packages.","packages":[{"keywords":["swift","date","timezone","nsdate-category","date-formatting","date-time","swiftdate","nsdate"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/malcommac/SwiftDate/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/malcommac/SwiftDate/master/README.md","summary":"🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.","url":"https://github.com/malcommac/SwiftDate.git","versions":[{"defaultToolsVersion":"5.3.0","manifests":{"5.3.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.10"},{"name":"ios","version":"9.0"},{"name":"watchos","version":"2.0"},{"name":"tvos","version":"9.0"}],"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}},{"name":"SwiftDateStatic","targets":["SwiftDate"],"type":{"library":["static"]}},{"name":"SwiftDateDynamic","targets":["SwiftDate"],"type":{"library":["dynamic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"5.3.0"}},"summary":"6.3.1","version":"6.3.1"},{"defaultToolsVersion":"5.3.0","manifests":{"5.3.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.10"},{"name":"ios","version":"9.0"},{"name":"watchos","version":"2.0"},{"name":"tvos","version":"9.0"}],"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}},{"name":"SwiftDateStatic","targets":["SwiftDate"],"type":{"library":["static"]}},{"name":"SwiftDateDynamic","targets":["SwiftDate"],"type":{"library":["dynamic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"5.3.0"}},"summary":"6.3.0","version":"6.3.0"},{"defaultToolsVersion":"5.3.0","manifests":{"5.3.0":{"minimumPlatformVersions":[{"name":"macos","version":"10.10"},{"name":"ios","version":"8.0"},{"name":"watchos","version":"2.0"},{"name":"tvos","version":"9.0"}],"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"5.3.0"}},"summary":"6.2.0","version":"6.2.0"},{"defaultToolsVersion":"4.0.0","manifests":{"4.0.0":{"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"4.0.0"}},"summary":"5.1.0","version":"5.1.0"},{"defaultToolsVersion":"4.0.0","manifests":{"4.0.0":{"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"4.0.0"}},"summary":"5.0.13","version":"5.0.13"},{"defaultToolsVersion":"4.0.0","manifests":{"4.0.0":{"packageName":"SwiftDate","products":[{"name":"SwiftDate","targets":["SwiftDate"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"SwiftDate","name":"SwiftDate"}],"toolsVersion":"4.0.0"}},"summary":"5.0.12","version":"5.0.12"}]},{"keywords":["hex","color","uicolor","nscolor","gradient","hex-strings","swiftui"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/yannickl/DynamicColor/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/yannickl/DynamicColor/master/README.md","summary":"Yet another extension to manipulate colors easily in Swift and SwiftUI","url":"https://github.com/yannickl/DynamicColor.git","versions":[{"defaultToolsVersion":"5.0.0","manifests":{"5.0.0":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"DynamicColor","products":[{"name":"DynamicColor","targets":["DynamicColor"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"DynamicColor","name":"DynamicColor"}],"toolsVersion":"5.0.0"}},"summary":"Version 5.0.1","version":"5.0.1"},{"defaultToolsVersion":"5.0.0","manifests":{"5.0.0":{"packageName":"DynamicColor","products":[{"name":"DynamicColor","targets":["DynamicColor"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"DynamicColor","name":"DynamicColor"}],"toolsVersion":"5.0.0"}},"summary":"Version 5.0.0","version":"5.0.0"},{"defaultToolsVersion":"5.0.0","manifests":{"5.0.0":{"packageName":"DynamicColor","products":[{"name":"DynamicColor","targets":["DynamicColor"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"DynamicColor","name":"DynamicColor"}],"toolsVersion":"5.0.0"}},"summary":"Version 4.2.1","version":"4.2.1"}]},{"keywords":["hex","color","gradient","hue"],"license":{"name":"NOASSERTION","url":"https://raw.githubusercontent.com/zenangst/Hue/master/LICENSE.md"},"readmeURL":"https://raw.githubusercontent.com/zenangst/Hue/master/README.md","summary":":art: Hue is the all-in-one coloring utility that you'll ever need.","url":"https://github.com/zenangst/Hue.git","versions":[{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"8.0"},{"name":"macos","version":"10.11"},{"name":"tvos","version":"9.0"}],"packageName":"Hue","products":[{"name":"Hue","targets":["Hue"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Hue","name":"Hue"}],"toolsVersion":"5.1.0"}},"version":"5.0.1"}]},{"keywords":["macos","swift","ios","image","xcode","cache","kingfisher","filters","image-processor"],"license":{"name":"MIT","url":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"},"readmeURL":"https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md","summary":"A lightweight, pure-Swift library for downloading and caching images from the web.","url":"https://github.com/onevcat/Kingfisher.git","versions":[{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1.0"}},"summary":"","version":"6.3.0"},{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1.0"}},"summary":"","version":"6.2.1"},{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"}],"toolsVersion":"5.1.0"}},"summary":"","version":"6.2.0"},{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}},{"name":"KingfisherSwiftUI","targets":["KingfisherSwiftUI"],"type":{"library":["automatic"]}},{"name":"KingfisherDynamic","targets":["Kingfisher"],"type":{"library":["dynamic"]}},{"name":"KingfisherSwiftUIDynamic","targets":["KingfisherSwiftUI"],"type":{"library":["dynamic"]}},{"name":"KingfisherStatic","targets":["Kingfisher"],"type":{"library":["static"]}},{"name":"KingfisherSwiftUIStatic","targets":["KingfisherSwiftUI"],"type":{"library":["static"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"},{"moduleName":"KingfisherSwiftUI","name":"KingfisherSwiftUI"}],"toolsVersion":"5.1.0"}},"summary":"","version":"5.15.8"},{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}},{"name":"KingfisherSwiftUI","targets":["KingfisherSwiftUI"],"type":{"library":["automatic"]}},{"name":"KingfisherDynamic","targets":["Kingfisher"],"type":{"library":["dynamic"]}},{"name":"KingfisherSwiftUIDynamic","targets":["KingfisherSwiftUI"],"type":{"library":["dynamic"]}},{"name":"KingfisherStatic","targets":["Kingfisher"],"type":{"library":["static"]}},{"name":"KingfisherSwiftUIStatic","targets":["KingfisherSwiftUI"],"type":{"library":["static"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"},{"moduleName":"KingfisherSwiftUI","name":"KingfisherSwiftUI"}],"toolsVersion":"5.1.0"}},"summary":"","version":"5.15.7"},{"defaultToolsVersion":"5.1.0","manifests":{"5.1.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"},{"name":"tvos","version":"10.0"},{"name":"watchos","version":"3.0"}],"packageName":"Kingfisher","products":[{"name":"Kingfisher","targets":["Kingfisher"],"type":{"library":["automatic"]}},{"name":"KingfisherSwiftUI","targets":["KingfisherSwiftUI"],"type":{"library":["automatic"]}},{"name":"KingfisherDynamic","targets":["Kingfisher"],"type":{"library":["dynamic"]}},{"name":"KingfisherSwiftUIDynamic","targets":["KingfisherSwiftUI"],"type":{"library":["dynamic"]}},{"name":"KingfisherStatic","targets":["Kingfisher"],"type":{"library":["static"]}},{"name":"KingfisherSwiftUIStatic","targets":["KingfisherSwiftUI"],"type":{"library":["static"]}}],"targets":[{"moduleName":"Kingfisher","name":"Kingfisher"},{"moduleName":"KingfisherSwiftUI","name":"KingfisherSwiftUI"}],"toolsVersion":"5.1.0"}},"summary":"","version":"5.15.6"}]}]}
+{
+  "formatVersion" : "1.0",
+  "generatedAt" : "2021-10-16T16:15:03Z",
+  "generatedBy" : {
+    "name" : "xuxulll"
+  },
+  "keywords" : [
+    "personal package"
+  ],
+  "name" : "xuxulll's personal packages",
+  "overview" : "This is a personal package collection listing made-up packages.",
+  "packages" : [
+    {
+      "keywords" : [
+        "date",
+        "date-formatting",
+        "date-time",
+        "nsdate",
+        "nsdate-category",
+        "swift",
+        "swiftdate",
+        "timezone"
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https://raw.githubusercontent.com/malcommac/SwiftDate/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/malcommac/SwiftDate/master/README.md",
+      "summary" : "🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.",
+      "url" : "https://github.com/malcommac/SwiftDate.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.3",
+          "manifests" : {
+            "5.3" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.10"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "SwiftDateDynamic",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "dynamic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "SwiftDateStatic",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "static"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "5.3"
+            }
+          },
+          "summary" : "6.3.1",
+          "version" : "6.3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.3",
+          "manifests" : {
+            "5.3" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.10"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "SwiftDateDynamic",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "dynamic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "SwiftDateStatic",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "static"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "5.3"
+            }
+          },
+          "summary" : "6.3.0",
+          "version" : "6.3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.3",
+          "manifests" : {
+            "5.3" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.10"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "8.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "2.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "5.3"
+            }
+          },
+          "summary" : "6.2.0",
+          "version" : "6.2.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "summary" : "5.1.0",
+          "version" : "5.1.0"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "summary" : "5.0.13",
+          "version" : "5.0.13"
+        },
+        {
+          "defaultToolsVersion" : "4.0",
+          "manifests" : {
+            "4.0" : {
+              "packageName" : "SwiftDate",
+              "products" : [
+                {
+                  "name" : "SwiftDate",
+                  "targets" : [
+                    "SwiftDate"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftDate",
+                  "name" : "SwiftDate"
+                }
+              ],
+              "toolsVersion" : "4.0"
+            }
+          },
+          "summary" : "5.0.12",
+          "version" : "5.0.12"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+        "color",
+        "gradient",
+        "hex",
+        "hue"
+      ],
+      "license" : {
+        "name" : "NOASSERTION",
+        "url" : "https://raw.githubusercontent.com/zenangst/Hue/master/LICENSE.md"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/zenangst/Hue/master/README.md",
+      "summary" : ":art: Hue is the all-in-one coloring utility that you'll ever need.",
+      "url" : "https://github.com/zenangst/Hue.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "8.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "Hue",
+              "products" : [
+                {
+                  "name" : "Hue",
+                  "targets" : [
+                    "Hue"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Hue",
+                  "name" : "Hue"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "5.0.1"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+        "cache",
+        "filters",
+        "image",
+        "image-processor",
+        "ios",
+        "kingfisher",
+        "macos",
+        "swift",
+        "xcode"
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md",
+      "summary" : "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "url" : "https://github.com/onevcat/Kingfisher.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.14"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "5.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "7.1.1"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.14"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "5.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "7.1.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.14"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "12.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "5.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "7.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "6.3.1"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "6.3.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Kingfisher",
+              "products" : [
+                {
+                  "name" : "Kingfisher",
+                  "targets" : [
+                    "Kingfisher"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Kingfisher",
+                  "name" : "Kingfisher"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "summary" : "",
+          "version" : "6.2.1"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "MIT",
+        "url" : "https://raw.githubusercontent.com/AppPear/ChartView/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/AppPear/ChartView/master/README.md",
+      "summary" : "ChartView made in SwiftUI",
+      "url" : "https://github.com/AppPear/ChartView.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "13.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "6.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.15"
+                }
+              ],
+              "packageName" : "SwiftUICharts",
+              "products" : [
+                {
+                  "name" : "SwiftUICharts",
+                  "targets" : [
+                    "SwiftUICharts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftUICharts",
+                  "name" : "SwiftUICharts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "2.0.0-beta.2"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "13.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "6.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.15"
+                }
+              ],
+              "packageName" : "SwiftUICharts",
+              "products" : [
+                {
+                  "name" : "SwiftUICharts",
+                  "targets" : [
+                    "SwiftUICharts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftUICharts",
+                  "name" : "SwiftUICharts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "2.0.0-beta.1"
+        },
+        {
+          "defaultToolsVersion" : "5.3",
+          "manifests" : {
+            "5.3" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "13.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "6.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "11.0"
+                }
+              ],
+              "packageName" : "SwiftUICharts",
+              "products" : [
+                {
+                  "name" : "SwiftUICharts",
+                  "targets" : [
+                    "SwiftUICharts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftUICharts",
+                  "name" : "SwiftUICharts"
+                }
+              ],
+              "toolsVersion" : "5.3"
+            }
+          },
+          "version" : "1.5.5"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "13.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "6.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.15"
+                }
+              ],
+              "packageName" : "SwiftUICharts",
+              "products" : [
+                {
+                  "name" : "SwiftUICharts",
+                  "targets" : [
+                    "SwiftUICharts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftUICharts",
+                  "name" : "SwiftUICharts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "1.5.4"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "13.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "6.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.15"
+                }
+              ],
+              "packageName" : "SwiftUICharts",
+              "products" : [
+                {
+                  "name" : "SwiftUICharts",
+                  "targets" : [
+                    "SwiftUICharts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "SwiftUICharts",
+                  "name" : "SwiftUICharts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "1.5.3"
+        }
+      ]
+    },
+    {
+      "keywords" : [
+
+      ],
+      "license" : {
+        "name" : "Apache-2.0",
+        "url" : "https://raw.githubusercontent.com/danielgindi/Charts/master/LICENSE"
+      },
+      "readmeURL" : "https://raw.githubusercontent.com/danielgindi/Charts/master/README.md",
+      "summary" : "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "url" : "https://github.com/danielgindi/Charts.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                }
+              ],
+              "packageName" : "Charts",
+              "products" : [
+                {
+                  "name" : "Charts",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "ChartsDynamic",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "dynamic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Charts",
+                  "name" : "Charts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "v4.0.1"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                }
+              ],
+              "packageName" : "Charts",
+              "products" : [
+                {
+                  "name" : "Charts",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                },
+                {
+                  "name" : "ChartsDynamic",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "dynamic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Charts",
+                  "name" : "Charts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "v4.0.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                }
+              ],
+              "packageName" : "Charts",
+              "products" : [
+                {
+                  "name" : "Charts",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Charts",
+                  "name" : "Charts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "v3.6.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "8.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                }
+              ],
+              "packageName" : "Charts",
+              "products" : [
+                {
+                  "name" : "Charts",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Charts",
+                  "name" : "Charts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "v3.5.0"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "8.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.11"
+                }
+              ],
+              "packageName" : "Charts",
+              "products" : [
+                {
+                  "name" : "Charts",
+                  "targets" : [
+                    "Charts"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Charts",
+                  "name" : "Charts"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "v3.4.0"
+        }
+      ]
+    }
+  ]
+}
